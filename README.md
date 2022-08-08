@@ -6,4 +6,5 @@ This Rest Api Contains Methods To Book Ticket using Passenger Details and Get Ti
 Technologies used:
 ---------------------------
 Spring boot
+
 Java - 1.8
